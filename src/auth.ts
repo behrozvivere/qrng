@@ -65,8 +65,8 @@ const auth: AuthOptions = {
     },
   },
   pages: {
-    signIn: "/signin",
-    error: "/signin", // Redirect to sign in page on error
+    signIn: "/en/signin",
+    error: "/en/signin", // Redirect to sign in page on error
   },
   debug: process.env.NODE_ENV === "development",
 };
