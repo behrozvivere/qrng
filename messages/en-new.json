@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "title": {
+      "template": "%s - QRNG",
+      "default": "QRNG - AI QR Code Generator"
+    },
+    "description": "The world's first and best AI QR code generator.",
+    "keywords": {
+      "0": "QR Code",
+      "1": "qrcode",
+      "2": "AI QR Code",
+      "3": "AI qrcode",
+      "4": "Parametric QR Code",
+      "5": "QRNG",
+      "6": "Mid Real",
+      "7": "midreal",
+      "8": "",
+      "9": ""
+    }
+  },
+  "index": {
+    "status": {
+      "title": "Status",
+      "subtitle": "Real-time statistics",
+      "google_play": "Google Play Downloads",
+      "qr_created": "QR Codes Created",
+      "qr_downloaded": "QR Codes Downloaded",
+      "visitors": "Unique Visitors",
+      "download_count": "Downloads",
+      "generate_count": "Generated",
+      "page_view": "Page Views",
+      "github_stars": "GitHub Stars"
+    }
+  },
+  "pricing": {
+    "title": "Pricing",
+    "description": "Choose the plan that best fits your needs."
+  },
+  "qrcodes": {
+    "correctLevel": {
+      "label": "Correct level",
+      "description": "Error correction level"
+    }
+  }
+}
