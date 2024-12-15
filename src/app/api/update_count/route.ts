@@ -1,3 +1,5 @@
+export const runtime = 'nodejs';
+
 import { addCount, getGitHubStars } from "@/lib/server/count";
 import { NextResponse } from "next/server";
 

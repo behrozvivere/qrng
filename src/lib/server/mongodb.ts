@@ -9,7 +9,7 @@ if (!uri) {
 let cachedClient: MongoClient;
 let cachedDbs: { [key: string]: Db } = {};
 
-export async function connectToDatabase(dbName: string = "qrcode") {
+export async function connectToDatabase(dbName: string = "qrng") {
   try {
     if (cachedClient && cachedDbs[dbName]) {
       return {
