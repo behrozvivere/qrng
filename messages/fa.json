@@ -151,6 +151,11 @@
     "sponsor": {
       "title": "حامی مالی",
       "subtitle": ""
+    },
+    "user_button": {
+      "sign_in": "ورود",
+      "sign_out": "خروج",
+      "account": "حساب کاربری"
     }
   },
   "pricing": {
